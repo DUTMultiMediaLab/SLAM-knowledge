@@ -4,9 +4,9 @@
 2.浙大暑期SLAM学校
 
 ## 经典论文
-1.ORB-SLAM  [视频](https://www.shenlanxueyuan.com/open/course/27)
-2.DSO [视频](https://www.shenlanxueyuan.com/open/course/30)
-3.VINS-Mono
+1.ORB-SLAM  [视频](https://www.shenlanxueyuan.com/open/course/27)  
+2.DSO [视频](https://www.shenlanxueyuan.com/open/course/30)  
+3.VINS-Mono  
 
 ## 自媒体和博客
 1.泡泡机器人公众号
