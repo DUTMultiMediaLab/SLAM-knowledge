@@ -7,7 +7,7 @@
 ## 实验室汇总
 [链接](https://pan.baidu.com/s/1lwp06rbR6vZtnEfS4aRbLQ) 提取码：ujjz
 
-## 经典论文
+## 经典方法
 ### 间接法
 1.ORB-SLAM  [视频](https://www.shenlanxueyuan.com/open/course/27)  
 ### 直接法
