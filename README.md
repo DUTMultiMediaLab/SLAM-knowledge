@@ -15,7 +15,7 @@
 2.MSCKF系列（选看）  
 
 ## 数学推理
-1.  
+1.[简单多视图几何](http://note.youdao.com/s/V0SE5PA6)  
 2.[主流VIO框架分析&VINS推导及代码解析](https://www.shenlanxueyuan.com/open/course/19)  
 3.[预积分](http://paopaorobot.org/bbs/read.php?tid=181&fid=5)  
 
