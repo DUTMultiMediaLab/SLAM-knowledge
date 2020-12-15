@@ -33,8 +33,12 @@
 5.[小C酱油兵](https://www.cnblogs.com/yepeichu/)
 
 ## 资料
-[百度云](https://pan.baidu.com/s/10wvWil5nsjtZ7llpnaytTA) 提取码：g7sw
+1.[百度云](https://pan.baidu.com/s/10wvWil5nsjtZ7llpnaytTA) 提取码：g7sw
+2.https://github.com/Ewenwan
 
 ## 论文list
 1.https://github.com/YiChenCityU/Recent_SLAM_Research  
 2.https://github.com/PaoPaoRobot  
+
+## 机器人领域会议期刊
+https://zhuanlan.zhihu.com/p/110089682
