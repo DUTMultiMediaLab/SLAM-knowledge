@@ -35,3 +35,6 @@
 ## 资料
 [百度云](https://pan.baidu.com/s/10wvWil5nsjtZ7llpnaytTA) 提取码：g7sw
 
+## 论文list
+1.https://github.com/YiChenCityU/Recent_SLAM_Research  
+2.https://github.com/PaoPaoRobot  
