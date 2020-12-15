@@ -40,5 +40,6 @@
 1.https://github.com/YiChenCityU/Recent_SLAM_Research  
 2.https://github.com/PaoPaoRobot  
 
-## 机器人领域会议期刊
-https://zhuanlan.zhihu.com/p/110089682
+## 会议期刊
+1.[会议deadline](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)   
+2.[知乎](https://zhuanlan.zhihu.com/p/110089682)
