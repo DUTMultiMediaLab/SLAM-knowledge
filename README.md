@@ -36,7 +36,7 @@
 2.计算机视觉life公众号  
 3.arXiv每日速递公众号  
 4.[白巧克力亦唯心](https://heyijia.blog.csdn.net/)  
-5.[小C酱油兵](https://www.cnblogs.com/yepeichu/)
+5.[小C酱油兵](https://www.cnblogs.com/yepeichu/)   
 6.3D视觉工坊公众号  
 
 ## 资料
